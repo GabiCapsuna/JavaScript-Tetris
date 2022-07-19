@@ -1,0 +1,14 @@
+#score{
+    display: inline-block;
+}
+div{
+    padding: 10px;
+    font-size: 25px;
+    font-family: fantasy;
+    text-align: center;
+}
+canvas{
+    display: block;
+    margin:0 auto;
+}
+
